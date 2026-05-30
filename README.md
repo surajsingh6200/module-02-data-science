@@ -1,4 +1,4 @@
-# MODULE_02_DATASCIENCE(Web Scraping + SQLite + Pandas)
+# MODULE-02-DATASCIENCE(Web Scraping + SQLite + Pandas)
 
 ##  Project Overview
 
