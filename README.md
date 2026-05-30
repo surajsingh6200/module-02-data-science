@@ -115,7 +115,7 @@ After completing this project, you will learn:
 * Real-world project structuring
 
 
-## ⭐ Future Improvements
+##  Future Improvements
 
 * Add data visualization (Matplotlib / Seaborn)
 * Create Flask API for database
